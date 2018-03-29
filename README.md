@@ -10,6 +10,10 @@ This connector should now show up when you 'Get Data' in Power BI.
 
 As of today, you are only able to use these connectors in Power BI Desktop. You will shortly be able to use connectors using 'Import' mode in the Power BI service via the On Premise Data Gateway - Personal, with support for both this and Direct Query coming to the Power BI Service via the On Premise Data Gateway - Enterprise coming in Q3.
 
+# Connector Support
+
+Microsoft is responsible for distribution and certification of the connectors. Support requests for the connector itself should be sent to the the partner that wrote the connector.
+
 # Connector Certification
 
 If you are curious about connector certification, please contact the DataConnectors@microsoft.com alias.
