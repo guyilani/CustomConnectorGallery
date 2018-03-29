@@ -1,6 +1,13 @@
 # Custom Connector
 
-This page is the home of Certified Custom Connectors for Power BI. To install a Custom Connector, please click through to the connector you need, download it, and save it in one of two locations. Go to My Documents. 
+This page is the home of Certified Custom Connectors for Power BI. 
+
+To enable Custom Connectors in Power BI:
+
+1. Enable the **Custom data connectors** preview feature in Power BI Desktop (under *File | Options and settings | Custom data connectors*)
+2. Restart Power BI Desktop
+
+To install a Custom Connector, please click through to the connector you need, download it, and save it in one of two locations. Go to My Documents. 
 
 1. If you have a folder 'Documents/Microsoft Power BI Desktop/Custom Connectors', save it in that folder. 
 
