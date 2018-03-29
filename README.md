@@ -21,6 +21,10 @@ As of today, you are only able to use these connectors in Power BI Desktop. You 
 
 Microsoft is responsible for distribution and certification of the connectors. Support requests for the connector itself should be sent to the the partner that wrote the connector.
 
+# Connector Development
+
+While new and improved Connector Development documentation will be coming shortly, you can find currently available documentation [here](http://github.com/Microsoft/DataConnectors).
+
 # Connector Certification
 
 If you are curious about connector certification, please contact the DataConnectors@microsoft.com alias.
