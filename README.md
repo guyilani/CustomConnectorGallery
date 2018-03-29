@@ -1,3 +1,18 @@
+# Custom Connector
+
+This page is the home of Certified Custom Connectors for Power BI. To install a Custom Connector, please click through to the connector you need, download it, and save it in one of two locations. Go to My Documents. 
+
+1. If you have a folder 'Documents/Microsoft Power BI Desktop/Custom Connectors', save it in that folder. 
+
+2. If you don't, create a folder 'Documents/Power BI Desktop/Custom Connectors', and save it there. This is the folder that will contain custom connectors in the future, and will override the previous folder. If connectors in the 'Microsoft Power BI Desktop' folder aren't showing up, it's likely because you created a 'Power BI Desktop' folder.
+
+This connector should now show up when you 'Get Data' in Power BI.
+
+As of today, you are only able to use these connectors in Power BI Desktop. You will shortly be able to use connectors using 'Import' mode in the Power BI service via the On Premise Data Gateway - Personal, with support for both this and Direct Query coming to the Power BI Service via the On Premise Data Gateway - Enterprise coming in Q3.
+
+# Connector Certification
+
+If you are curious about connector certification, please contact the 
 
 # Contributing
 
