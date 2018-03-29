@@ -12,7 +12,7 @@ As of today, you are only able to use these connectors in Power BI Desktop. You 
 
 # Connector Certification
 
-If you are curious about connector certification, please contact the 
+If you are curious about connector certification, please contact the DataConnectors@microsoft.com alias.
 
 # Contributing
 
