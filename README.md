@@ -43,7 +43,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-#Legal Notices
+# Legal Notices
 
 Microsoft and any contributors grant you a license to any code in the repository under the MIT License, see the LICENSE file. 
 Microsoft, Power BI, Microsoft Azure or other Microsoft products and services referenced in the documentation may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The licenses for this project do not grant you rights to use any Microsoft or contributor names, logos, or trademarks. Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.  Contact a contributor for its trademark guidelines.  
