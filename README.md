@@ -19,9 +19,9 @@ As of today, you are only able to use these connectors in Power BI Desktop. You 
 
 # Connector List
 
-[https://github.com/Microsoft/CustomConnectorGallery/blob/master/Connectors/Exasol.mez?raw=true](Exasol by Exasol)
+[Exasol by Exasol](https://github.com/Microsoft/CustomConnectorGallery/blob/master/Connectors/Exasol.mez?raw=true)
 
-[https://github.com/Microsoft/CustomConnectorGallery/blob/master/Connectors/TeamDesk.PowerBI.DataConnector.mez?raw=true](TeamDesk by ForeSoft)
+[TeamDesk by ForeSoft](https://github.com/Microsoft/CustomConnectorGallery/blob/master/Connectors/TeamDesk.PowerBI.DataConnector.mez?raw=true)
 
 # Connector Support
 
